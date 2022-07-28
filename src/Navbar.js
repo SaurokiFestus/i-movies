@@ -25,13 +25,13 @@ function Navbar() {
       >
         <button>Contacts</button>
        </NavLink>
-       
-      <NavLink 
+
+      {/* <NavLink 
         to="/search"
         exact
       >
         <button>Search</button>
-       </NavLink>
+       </NavLink> */}
 
        
       

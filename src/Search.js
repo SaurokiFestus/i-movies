@@ -1,7 +1,7 @@
 import React, {useRef} from 'react'
 
 function Search(props) {
-    // console.log(props)
+    console.log(props)
 
 
     const inputEl =useRef("")

@@ -13,9 +13,6 @@ code {
     monospace;
 }
 
-.about{
-  background-color: rgb(112, 228, 112);
-}
 
 button{
   color: rgb(0, 0, 0);
@@ -106,8 +103,6 @@ nav {
 
 .Card{
   background-color: rgb(112, 228, 112);
-  /* width: 50px;
-  height: 100px; */
   border-radius: 10px;
   border: none;
   display: block;
@@ -119,3 +114,27 @@ nav {
 img{
   height: 250px;
 }
+
+
+.about{
+  text-transform: capitalize;
+  font-weight: normal;
+  width: 120px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 45%;
+  background-color: rgb(112, 228, 112);
+  border-radius: 5px;
+}
+
+.contact{
+  text-transform: capitalize;
+  border-radius: 5px;
+  font-weight: normal;
+  width: 120px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 45%;
+  background-color: rgb(112, 228, 112);
+}
+
